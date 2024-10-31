@@ -76,7 +76,7 @@ const Footer = () => {
         </div>
         <div className="mt-4 md:mt-0">
           <a
-            href="https://wa.me/9988763872"
+            href="https://wa.me/6284251608"
             target="_blank"
             // rel="noopener noreferrer"
           >
