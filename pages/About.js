@@ -57,7 +57,7 @@ const About = () => {
               learning environment where you can unlock your potential.
             </p>
             <p className="text-sm md:text-base text-gray-600 text-center md:text-left">
-              Rajnish Kaur
+              vikas kumar verma
               <br />
               Owner
             </p>
