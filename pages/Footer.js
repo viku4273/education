@@ -56,9 +56,9 @@ const Footer = () => {
           <h2 className="text-lg font-bold text-black ">Contact Details</h2>
           <p className="text-gray-600 mt-2">
             Address: Jct Thaper colony chohal, Distt. Hoshiarpur, Punjab, Pin -
-            144527
+            146024
           </p>
-          <p className="text-gray-600">Phone: +91 9988763872</p>
+          <p className="text-gray-600">Phone: +91 9517787893</p>
           <p className="text-gray-600">Email: institute.hhie@gmail.com</p>
         </div>
       </div>
