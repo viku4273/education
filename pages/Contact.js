@@ -59,7 +59,7 @@ export default function Contact() {
             </div>
             <div>
               <h3 className="text-lg font-bold text-maroon-700">Phone:</h3>
-              <p>+91 9988763872</p>
+              <p>+91 9517787893</p>
             </div>
             <div>
               <h3 className="text-lg font-bold text-maroon-700">Email:</h3>
