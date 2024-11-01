@@ -60,7 +60,7 @@ function Navbar() {
               </li>
               <li>
                 <Link
-                  href="tel:+9988763872"
+                  href="tel:+9517787893"
                   className="bg-red-900 text-white font-semibold py-2 px-6 rounded-md transition hover:bg-red-700"
                 >
                   Call Us
@@ -108,7 +108,7 @@ function Navbar() {
               </li>
               <li>
                 <Link
-                  href="tel:+9988763872"
+                  href="tel:+9517787893"
                   className="bg-red-900 text-white font-semibold py-2 px-6 rounded-md transition hover:bg-red-700"
                   onClick={() => setNavbar(false)}
                 >
